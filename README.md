@@ -1,5 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&animation=twinkling&rotate=0&reversal=false&descAlign=50&textBg=false&fontAlign=50"/>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=8F0D87&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<p>
+  
 # 📋 About Me
 
 **My name is Pedro, I am 23 years old, and I am studying Computer Science.**

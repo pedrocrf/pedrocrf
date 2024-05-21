@@ -1,8 +1,22 @@
-<br><br> My name is Pedro, I am 23 years old, and I am studying Computer Science. I have a great interest in technology and Data Science, always seeking to learn and apply new advancements in these areas. My main interests include Big Data, Machine Learning, Data Analysis, and Data Visualization. I am focused on developing my skills to enhance my analytical capacity and contribute significantly to data science projects.</p>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&animation=twinkling&rotate=0&reversal=false&descAlign=50&textBg=false&fontAlign=50"/>
+
+# 📋 About Me
+
+**My name is Pedro, I am 23 years old, and I am studying Computer Science.**
+
+I have a great interest in technology and Data Science, always seeking to learn and apply new advancements in these areas.
+
+## 📌 Main Interests
+
+- Big Data
+- Machine Learning
+- Data Analysis
+- Data Visualization
+
+I am focused on developing my skills to enhance my analytical capacity and contribute significantly to data science projects.
 
 
-
-## My Skills
+## 🔎 My Skills
 
 #### Data Science:
 
@@ -34,11 +48,10 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)&nbsp;
 
-
 &nbsp;
 &nbsp;
 
-## Contacts:
+## ☎️ Contacts:
 
 <div> 
 <a href = "mailto:crfpedro14@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

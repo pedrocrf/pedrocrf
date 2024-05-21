@@ -8,10 +8,14 @@ I have a great interest in technology and Data Science, always seeking to learn 
 
 ## 📌 Main Interests
 
+- Python
 - Big Data
 - Machine Learning
 - Data Analysis
 - Data Visualization
+- Artificial Intelligence (AI)
+- Deep Learning
+- Business Intelligence (BI)
 
 I am focused on developing my skills to enhance my analytical capacity and contribute significantly to data science projects.
 

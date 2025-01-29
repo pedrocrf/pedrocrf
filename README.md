@@ -9,7 +9,7 @@
   
 # 📋 About Me
 
-**My name is Pedro, I am 24 years old, and I am studying Computer Science.**
+**My name is Pedro, I am 24 years old, and I am studying Computer Science and Data Analytics.**
 
 I have a great interest in technology and Data Analytics, always seeking to develop skills that allow me to extract insights and make data-driven decisions.
 
